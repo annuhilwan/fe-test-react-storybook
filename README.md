@@ -35,6 +35,8 @@ npm run storybook
 ```bash
 yarn storybook
 ```
+<h3 align="left">Deploy React url</h3>
+<p><a href="https://fe-react-testtask.vercel.app/">https://fe-react-testtask.vercel.app/</a></p>
 
 <h3 align="left">Storybook url:</h3>
 <p>local: http://localhost:6006/</p>
